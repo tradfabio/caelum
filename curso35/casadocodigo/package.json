@@ -1,0 +1,16 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Projeto do curso Caelum 35",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.3"
+  }
+}
